@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pattern3 {
+public class Pattern3HalfDiamond {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
@@ -36,6 +36,6 @@ public class Pattern3 {
                 num--;
             }
         }
-        
+
     }
 }
