@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Pattern5BookMarkShape {
+public class Pattern5BookmarkShape {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
@@ -29,8 +29,6 @@ public class Pattern5BookMarkShape {
             stars--;
             spaces += 2;
         }
-
-
 
     }
 }
