@@ -17,7 +17,7 @@ public class Print2DArrayInWaveFormat {
                     System.out.print(arr[r][c] + " ");
                 }
             } else {
-                for (int r = arr.length - 1; r >=    0; r--) {
+                for (int r = arr.length - 1; r >= 0; r--) {
                     System.out.print(arr[r][c] + " ");
                 }
             }
